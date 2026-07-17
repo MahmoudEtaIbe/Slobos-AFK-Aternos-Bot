@@ -8,7 +8,7 @@
   "server": {
     "ip": "amigosdelsahara.aternos.me",
     "port": 12185,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
